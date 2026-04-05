@@ -33,9 +33,9 @@ The dataset consists of transactional sales records with the following key attri
 
 ## Tools Used
 
-* **SQL (MySQL)** → Core data analysis and aggregations
-* **Python (Pandas)** → Supporting calculations and validation
-* **Power BI** → Dashboard and visualization
+* **SQL (MySQL)** for Core data analysis and aggregations
+* **Python (Pandas)** for Supporting calculations and validation
+* **Power BI** for Dashboard and visualization
 
 ---
 
@@ -100,6 +100,3 @@ The Power BI dashboard provides a visual summary of:
 
 This project demonstrates a structured approach to analyzing SaaS sales data by combining SQL, Python, and Power BI.
 The focus remains on identifying actionable patterns while maintaining clarity and simplicity in analysis.
-
-* refine your **GitHub repo structure (folders + naming)**
-* or create a **clean project thumbnail/banner (very useful for visibility)**
